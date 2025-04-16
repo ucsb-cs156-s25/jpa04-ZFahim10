@@ -1,6 +1,6 @@
 # jpa04-ZFahim10
 
-Running at: https://jpa04-zfahim10.dokku-04.cs.ucsb.edu/admin/users
+Running at: https://jpa04-zfahim10.dokku-04.cs.ucsb.edu/
 
 ## Thanks
 
